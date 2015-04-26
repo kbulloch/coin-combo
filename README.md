@@ -5,7 +5,7 @@
 
 ##Description
 
-This app takes a two digit float and returns the number of each coin needed for change.
+This app takes a two digit float and returns the number of each coin needed for change.  An exercise in javascript and jQuery for Epicodus.
 
 ##Setup
 
